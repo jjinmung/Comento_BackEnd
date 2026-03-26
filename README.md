@@ -1,8 +1,3 @@
-# 🌐 Network Study: HTTP & Browser Workflow
-
-이 문서는 네트워크의 기초인 HTTP 통신 방식과 브라우저의 동작 원리를 학습하고 정리한 기록입니다.
-
----
 
 ## 1. HTTP(HyperText Transfer Protocol) 통신
 HTTP는 클라이언트(브라우저)와 서버 간에 데이터를 주고받기 위한 **응용 계층 프로토콜**입니다.
