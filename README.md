@@ -1,5 +1,5 @@
 
-## 1. HTTP(HyperText Transfer Protocol) 통신 상세
+## 1. HTTP(HyperText Transfer Protocol) 통신 
 
 HTTP는 웹 상에서 클라이언트와 서버가 자원(HTML, 이미지, 데이터 등)을 주고받기 위해 사용하는 **응용 계층 프로토콜**입니다. 단순한 텍스트 전송을 넘어, 오늘날 현대적인 웹 애플리케이션의 뼈대를 이룹니다.
 
